@@ -61,3 +61,5 @@ uv.lock
 src/__pycache__/
 src/domain/__pycache__/
 src/scripts/__pycache__/
+LibreHardwareMonitor/
+pyproject.toml
