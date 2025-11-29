@@ -1,0 +1,12 @@
+[project]
+name = "nexusmonitor"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "pythonnet>=3.0.5",
+    "requests>=2.32.5",
+    "tqdm>=4.67.1",
+    "wmi>=1.5.1",
+]
