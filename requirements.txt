@@ -1,0 +1,4 @@
+pythonnet>=3.0.5
+requests>=2.32.5
+tqdm>=4.67.1
+wmi>=1.5.1
